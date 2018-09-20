@@ -1,0 +1,49 @@
+/* Styles */
+#root {
+  font: 15px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
+  min-width: 550px;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+a.activHeader {
+  color:  orange;
+}
+nav {
+  padding-top: 20px;
+}
+
+.not-found {
+  text-align: center;
+}
+
+.icn-error {
+  font-size: 3.2em;
+  margin-bottom: .25em;
+}
+
+.notFoundIcon {
+	font-size: 90px
+}
+
+.simple-page-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.simple-page-header{padding:1rem .5rem}
+.simple-page-header
+.home-btn
+
+
+
+.simple-page-header .home-btn .btn:active,.simple-page-header
+ .home-btn .btn:focus,.simple-page-header .home-btn
+  .btn:hover{background:none;border:none;opacity:1;outline:none;-webkit-box-shadow:none;box-shadow:none}
+  .simple-page-content{max-width:90%;width:320px}
+  .simple-page-logo{text-align:center;font-size:24px;margin-bottom:24px}
+  .simple-page-logo a{color:#fff}
+  .simple-page-form{background-color:#fff;border-radius:6px;padding:24px;margin-bottom:24px}
+  .simple-page-form
+  .form-group{margin-bottom:32px}.
+  simple-page-form input,
+  .simple-page-form input:active,.simple-page-form input:focus{outline:none;-webkit-box-shadow:none;box-shadow:none}
+  .simple-page-form input{border:none;border-bottom:1px solid #eee;height:40px}
+  .simple-page-form .btn{width:100%}
